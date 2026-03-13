@@ -14,7 +14,7 @@ from pathlib import Path
 # =============================================================================
 
 # Dossier de base du projet (là où se trouve config.py)
-BASE_DIR = Path(__file__).parent.absolute()
+BASE_DIR = Path("/content/drive/MyDrive/PR2")
 
 # Dossier contenant les images (à adapter selon votre structure)
 # Si vos images sont dans un sous-dossier "ПР2_data"
